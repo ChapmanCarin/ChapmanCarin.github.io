@@ -1,2 +1,2 @@
 # ChapmanCarin.github.io
-baby's first website
+babys first website
